@@ -1,2 +1,0 @@
-# ViWriteups
-CTF writeups
