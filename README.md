@@ -8,8 +8,8 @@ CTF and security research writeups — focused on Android exploitation and mobil
 
 | Challenge | Platform | Topics |
 |---|---|---|
-| [Strings](./strings/README.md) | Mobile Hacking Lab | Deep links · AES · Native libs · Frida memory scanning |
-| [CyclicScanner](./cyclicscanner/README.md) | Mobile Hacking Lab | Command injection · Service exploitation · SELinux |
+| [Strings]([./strings/README.md](https://github.com/vihangi/ViWriteups/blob/main/strings.md)) | Mobile Hacking Lab | Deep links · AES · Native libs · Frida memory scanning |
+| [CyclicScanner](https://github.com/vihangi/ViWriteups/blob/main/CyclicScanner.md) | Mobile Hacking Lab | Command injection · Service exploitation · SELinux |
 
 ---
 
